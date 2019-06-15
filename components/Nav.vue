@@ -1,5 +1,5 @@
 <template>
-  <ul v-parallax="0.2" class="nav">
+  <ul class="nav">
     <li>
       <a href="#">HOME</a>
       <ul class="nav__sub">
@@ -33,6 +33,9 @@
   align-items: center;
   justify-content: center;
   margin: 0;
+  @media screen and (max-width: 768px) {
+    flex-wrap: wrap;
+  }
   ul{
     padding: 0;
   }
