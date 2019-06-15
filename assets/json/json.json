@@ -1,0 +1,46 @@
+{
+  "Posts" : [
+    {
+      "id":1,
+      "title": "テスト01",
+      "description": "ポートフォリオの詳細が入ります。",
+      "categories": 1,
+      "tags": "nuxt",
+      "eyecatch": "test.jpg",
+      "freearea": "ここに使われている技術を入れます",
+      "gallery": [
+        "test_min.jpg",
+        "test_min2.jpg",
+        "test_min3.jpg"
+      ]
+    },
+    {
+      "id":2,
+      "title": "テスト02",
+      "description": "ポートフォリオの詳細が入ります。",
+      "categories": 2,
+      "tags": "nuxt",
+      "eyecatch": "test.jpg",
+      "freearea": "ここに使われている技術を入れます",
+      "gallery": [
+        "test_min.jpg",
+        "test_min2.jpg",
+        "test_min3.jpg"
+      ]
+    },
+    {
+      "id":3,
+      "title": "テスト03",
+      "description": "ポートフォリオの詳細が入ります。",
+      "categories": 3,
+      "tags": "nuxt",
+      "eyecatch": "test.jpg",
+      "freearea": "ここに使われている技術を入れます",
+      "gallery": [
+        "test_min.jpg",
+        "test_min2.jpg",
+        "test_min3.jpg"
+      ]
+    }
+  ]
+}
