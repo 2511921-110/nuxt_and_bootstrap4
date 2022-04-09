@@ -30,7 +30,7 @@
     "markdown-it-highlight": "^0.2.0",
     "markdown-it-meta": "^0.0.1",
     "markdown-it-table-of-contents": "^0.4.4",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "nuxt": "^2.4.0",
     "vue-parallax-js": "^0.2.3"
   },
